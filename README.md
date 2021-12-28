@@ -1,0 +1,1 @@
+# altium-template-project
